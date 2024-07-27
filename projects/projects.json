@@ -1,0 +1,90 @@
+[
+  {
+    "name": "NSBM Student Portal Mobile App",
+    "desc": "Technologies – React Native ,Expo ,NodeJS ,MongoDB ,Express.JS ",
+    "image": "p 2",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": "https://github.com/jjdkasthuri/NSBM_Student_Portal_Mobile_App"
+    }
+  },
+
+  {
+    "name": "HR-department-analysis",
+    "desc": "*Raw HR Analytics Data. *Import Data in Power BI *Data Cleaning & Processing *Power Bi Dashboard- KPIs *Power Bi Dashboard- Charts & Table",
+    "image": "flipkartmern",
+    "category": "Power Bi",
+    "links": {
+      "view": "",
+      "code": "https://github.com/jjdkasthuri/HR-department-analysis"
+    }
+  },
+  
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "myshoppingwebsite",
+    "desc": "",
+    "image": "flipkartphp",
+    "category": "Web-Site",
+    "links": {
+      "view": "myshoppingwebsite-jjdkasthuris-projects.",
+      "code": "https://github.com/jjdkasthuri/shopping-Website"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  
+  
+ 
+  
+  {
+    "name": "Foodicious",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "recipes-food",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/jjdkasthuri/recipes-food",
+      "code": "https://github.com/jjdkasthuri/recipes-food"
+    }
+  },
+  
+
+  {
+    "name": "Coffee-Shop",
+    "desc": "Store to sell delicious coffee, open to teach the coffee process and the store hard work, to found the bests coffee grains.Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery",
+    "image": "burgerweb",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/jjdkasthuri/Coffee-Shop",
+      "code": "https://github.com/jjdkasthuri/Coffee-Shop"
+    }
+  }
+]
